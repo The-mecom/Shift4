@@ -1,0 +1,6 @@
+{
+  "name": "WordShift: Retro Arcade Word Ladder",
+  "description": "A retro arcade terminal word-ladder puzzle game. Morph words one letter at a time across 2-7 letter challenges with live visual trail and BFS solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
